@@ -1,0 +1,27 @@
+body{
+    background-color: #d8d8d8;
+    font-family: 'Roboto', sans-serif
+}
+
+.carousel-indicators{
+    bottom: -40px;
+}
+
+.purple-text{
+    color: #86328a;
+}
+
+.Row-3-item{
+    margin-left: 2rem;
+}
+
+.card-img::after{
+    content: "";
+    position: relative
+}
+
+.card-img::after{
+    content: "";
+    position: absolute
+    
+}
